@@ -1,0 +1,1 @@
+print("primer dia em python")
