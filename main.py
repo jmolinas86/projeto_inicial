@@ -18,4 +18,4 @@ print (lista)
 lista_invertida = lista.reverse()
 
 print (lista_invertida)
-'hola'
+'hola' "agora sim"
